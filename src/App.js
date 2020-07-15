@@ -5,6 +5,7 @@ import Contact from "./components/Contact";
 import Influence from "./components/Influence";
 import Gains from "./components/Gains";
 import Started from "./components/Started";
+import WhatItTakes from "./components/WhatItTakes";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Influence />
       <Gains />
       <Started />
+      <WhatItTakes />
     </div>
   );
 }
