@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.brain-img,
+.roller-img,
+.satelite-img,
+.grid-img {
+  height: 50px;
+  width: 50px;
+}
