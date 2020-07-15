@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Contact from "./components/Contact";
 import Influence from "./components/Influence";
 import Gains from "./components/Gains";
+import Started from "./components/Started";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Contact />
       <Influence />
       <Gains />
+      <Started />
     </div>
   );
 }
