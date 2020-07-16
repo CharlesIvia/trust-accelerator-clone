@@ -6,6 +6,7 @@ import Influence from "./components/Influence";
 import Gains from "./components/Gains";
 import Started from "./components/Started";
 import WhatItTakes from "./components/WhatItTakes";
+import StepOne from "./components/StepOne";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Gains />
       <Started />
       <WhatItTakes />
+      <StepOne />
     </div>
   );
 }
