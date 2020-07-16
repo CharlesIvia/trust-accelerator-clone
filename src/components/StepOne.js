@@ -17,6 +17,7 @@ const StepOne = () => {
           ensure you'll never be stuck scratching your head when tasked with
           creating content that delivers massive value. More on that shortly.
         </p>
+        <p>Output: Trust Profile</p>
       </div>
       <div>
         <img src={strategicImg} alt="strategy" />
@@ -34,6 +35,7 @@ const StepOne = () => {
           your expertise. Already have a brand? We'll build you a complimentary
           visual system.
         </p>
+        <p>Output: Visual Branding Framework</p>
       </div>
       <div>
         <img src={commerceImg} alt="strategy" />
@@ -50,6 +52,7 @@ const StepOne = () => {
           whether or not what you said was valuable or not. We'll do all that.
           One thing you should know, we'll hold your feet to the fire.
         </p>
+        <p>Output: Process & Scheduling Structure</p>
       </div>
       <div>
         <img src={voiceImg} alt="strategy" />
@@ -66,6 +69,7 @@ const StepOne = () => {
           graphics, written posts, and SEO optimized articles. Every week. Plus,
           we build you a website that drives hyper-qualified traff
         </p>
+        <p>Output: Weekly Editorial Assets</p>
       </div>
       <div>
         <img src={innovationImg} alt="strategy" />
