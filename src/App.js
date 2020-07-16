@@ -21,6 +21,7 @@ function App() {
       <StepOne />
       <Started />
       <Clients />
+      <Started />
     </div>
   );
 }
