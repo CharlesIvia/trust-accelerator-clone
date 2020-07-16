@@ -8,6 +8,7 @@ import Started from "./components/Started";
 import WhatItTakes from "./components/WhatItTakes";
 import StepOne from "./components/StepOne";
 import Clients from "./components/Clients";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Started />
       <Clients />
       <Started />
+      <Footer />
     </div>
   );
 }
