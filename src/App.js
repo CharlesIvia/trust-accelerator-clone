@@ -18,6 +18,7 @@ function App() {
       <Started />
       <WhatItTakes />
       <StepOne />
+      <Started />
     </div>
   );
 }
