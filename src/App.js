@@ -7,6 +7,7 @@ import Gains from "./components/Gains";
 import Started from "./components/Started";
 import WhatItTakes from "./components/WhatItTakes";
 import StepOne from "./components/StepOne";
+import Clients from "./components/Clients";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <WhatItTakes />
       <StepOne />
       <Started />
+      <Clients />
     </div>
   );
 }
