@@ -130,6 +130,24 @@ html {
   margin: 4.5vh 0 3.5vh 0;
 }
 
+/* Get component */
+
+.get {
+  height: 85vh;
+}
+
+.get-top {
+  margin: 5vh 0 8vh 0;
+  font-size: 4.5rem;
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+}
+
+.two {
+  display: flex;
+  justify-content: space-between;
+}
+
 .brain-img,
 .roller-img,
 .satelite-img,
