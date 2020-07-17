@@ -1,5 +1,6 @@
 /* Initial styling */
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300&family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
 
 * {
   box-sizing: border-box;
@@ -27,7 +28,7 @@ html {
 
 .title {
   font-family: "Roboto", sans-serif;
-  padding: 10vh 0 10vh 0;
+  padding: 11vh 0 11vh 0;
   font-size: 1.2rem;
   line-height: 3.2rem;
   letter-spacing: 0.3rem;
@@ -54,12 +55,12 @@ html {
 
 .line {
   border-bottom: 1px solid rgb(55, 70, 90);
-  margin: 7.2rem 0 2.2rem 0;
+  margin: 9.3rem 0 2.2rem 0;
 }
 
 .do {
   font-size: 1.8rem;
-  color: rgb(181, 175, 164);
+  color: rgb(181, 189, 208);
 }
 
 .brain-img,
