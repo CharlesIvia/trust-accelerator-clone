@@ -5,7 +5,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  outline: 1px solid red;
 }
 
 html {
@@ -15,7 +14,7 @@ html {
 }
 
 .container {
-  padding: 0 35rem;
+  padding: 0 36.5rem;
 }
 
 /* Hero component */
@@ -32,6 +31,35 @@ html {
   font-size: 1.2rem;
   line-height: 3.2rem;
   letter-spacing: 0.3rem;
+}
+
+.tag-line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tag {
+  font-size: 4.5rem;
+  font-family: "Roboto", sans-serif;
+  line-height: 5.5rem;
+  letter-spacing: 0.2rem;
+  font-weight: 900;
+  width: 40rem;
+}
+
+.big-brain {
+  height: 21.7rem;
+  width: 27.6rem;
+}
+
+.line {
+  border-bottom: 1px solid rgb(55, 70, 90);
+  margin: 7.2rem 0 2.2rem 0;
+}
+
+.do {
+  font-size: 1.8rem;
+  color: rgb(181, 175, 164);
 }
 
 .brain-img,
