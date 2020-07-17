@@ -20,7 +20,19 @@ html {
 
 /* Hero component */
 
+.hero {
+  height: 80vh;
+  background: rgb(10, 8, 38);
+  color: white;
+}
 
+.title {
+  font-family: "Roboto", sans-serif;
+  padding: 10vh 0 10vh 0;
+  font-size: 1.2rem;
+  line-height: 3.2rem;
+  letter-spacing: 0.3rem;
+}
 
 .brain-img,
 .roller-img,
