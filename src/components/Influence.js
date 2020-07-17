@@ -2,15 +2,15 @@ import React from "react";
 
 const Influence = () => {
   return (
-    <div>
+    <div className="container influence">
       <div>
-        <p>Influence</p>
-        <h2>Everywhere.</h2>
+        <p className="in">Influence.</p>
+        <h2 className="eve">Everywhere.</h2>
       </div>
 
       <div>
         <p>We build content engines fueled exclusively by voice, so you can:</p>
-        <ul>
+        <ul className="list-items">
           <li>Spend less time marketing and more time innovating.</li>
           <li>
             Strengthen your brand, your network and secure bigger opportunities.
@@ -21,6 +21,8 @@ const Influence = () => {
           </li>
         </ul>
       </div>
+
+      <div className="lined"></div>
     </div>
   );
 };
