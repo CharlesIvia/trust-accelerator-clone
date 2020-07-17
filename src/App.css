@@ -133,7 +133,7 @@ html {
 /* Get component */
 
 .get {
-  height: 85vh;
+  height: 80vh;
 }
 
 .get-top {
@@ -148,12 +148,34 @@ html {
   justify-content: space-between;
 }
 
+.lead {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  font-size: 1.6rem;
+}
+
+.first-second {
+  width: 25vw;
+  margin-bottom: 10rem;
+}
+
+.first-second p {
+  font-size: 1.8rem;
+}
+
+.small-line {
+  border-bottom: 1px solid gainsboro;
+  margin: 1.5rem 0 0 0;
+}
+
 .brain-img,
 .roller-img,
 .satelite-img,
 .grid-img {
-  height: 50px;
-  width: 50px;
+  height: 5.5rem;
+  width: 5.5rem;
+  margin-top: 1.5rem;
 }
 
 .progress-img {
