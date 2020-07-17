@@ -100,6 +100,36 @@ html {
   border: none;
 }
 
+/* Influence component  */
+
+.influence {
+  height: 40vh;
+  font-size: 1.8rem;
+}
+
+.in {
+  padding-top: 5vh;
+  font-size: 4.5rem;
+  font-weight: 500;
+  letter-spacing: 0.2rem;
+}
+
+.eve {
+  padding: 0.2vh 0 7vh 0;
+  font-size: 4.5rem;
+  font-weight: 900;
+  letter-spacing: 0.2rem;
+}
+
+.list-items {
+  padding: 2vh 0 0 3vw;
+}
+
+.lined {
+  border-bottom: 1px solid gainsboro;
+  margin: 4.5vh 0 3.5vh 0;
+}
+
 .brain-img,
 .roller-img,
 .satelite-img,
