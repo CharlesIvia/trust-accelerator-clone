@@ -6,12 +6,12 @@ import satelite from "../images/image05.svg";
 
 const Gains = () => {
   return (
-    <div>
-      <h1>What you get</h1>
+    <div className="container get">
+      <h1 className="get-top">What you get</h1>
 
-      <div className="first-two">
-        <div>
-          <div>
+      <div className="two">
+        <div className="first-second">
+          <div className="lead">
             <div>
               <p>LEADERSHIP</p>
               <h1>LEVERAGE</h1>
@@ -23,8 +23,8 @@ const Gains = () => {
 
           <div className="small-line"></div>
         </div>
-        <div>
-          <div>
+        <div className="first-second">
+          <div className="lead">
             <div>
               <p>ASSET</p>
               <h1>AUTOMATION</h1>
@@ -41,9 +41,9 @@ const Gains = () => {
         </div>
       </div>
 
-      <div className="last-two">
-        <div>
-          <div>
+      <div className="two">
+        <div className="first-second">
+          <div className="lead">
             <div>
               <p>INCREASED</p>
               <h1>INFLUENCE</h1>
@@ -58,8 +58,8 @@ const Gains = () => {
 
           <div className="small-line"></div>
         </div>
-        <div>
-          <div>
+        <div className="first-second">
+          <div className="lead">
             <div>
               <p>ACUTE</p>
               <h1>ACCOUNTABILITY</h1>
