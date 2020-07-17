@@ -7,8 +7,6 @@ import satelite from "../images/image05.svg";
 const Gains = () => {
   return (
     <div>
-      <div className="line"></div>
-
       <h1>What you get</h1>
 
       <div className="first-two">
