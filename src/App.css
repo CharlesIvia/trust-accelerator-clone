@@ -1,5 +1,14 @@
-.App {
-  text-align: center;
+/* Initial styling */
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300&family=Roboto:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
 }
 
 .brain-img,
