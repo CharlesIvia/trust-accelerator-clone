@@ -63,6 +63,43 @@ html {
   color: rgb(181, 189, 208);
 }
 
+/* Contact component */
+
+.contact {
+  height: 25vh;
+  font-size: 1.8rem;
+  background: rgb(0, 255, 201);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.how {
+  margin-bottom: 4vh;
+  font-weight: 300;
+}
+
+.email {
+  margin-bottom: 2vh;
+  padding: 1.2rem;
+  border: 1px solid darkgrey;
+  width: 32rem;
+  border-radius: 0.2rem;
+  margin-top: 2rem;
+}
+
+.join {
+  margin-top: 0;
+  background: rgb(10, 8, 38);
+  color: white;
+  border: none;
+}
+
 .brain-img,
 .roller-img,
 .satelite-img,
