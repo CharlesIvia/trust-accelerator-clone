@@ -191,6 +191,26 @@ html {
 
 .ready {
   padding: 0 0 2rem 0;
+  font-weight: 300;
+}
+
+.chat-btn {
+  padding: 3rem;
+  width: 17.5vw;
+  background: rgb(10, 8, 38);
+  border: none;
+  border-radius: 0.5rem;
+}
+
+.chat-btn > a {
+  text-decoration: none;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: white;
+}
+
+.chat-btn:hover {
+  background: rgb(29, 25, 73);
 }
 
 .progress-img {
