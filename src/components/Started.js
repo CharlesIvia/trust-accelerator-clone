@@ -2,12 +2,12 @@ import React from "react";
 
 const Started = () => {
   return (
-    <div>
+    <div className="container started">
       <div>
-        <h2>Ready to get started?</h2>
+        <h2 className="ready">Ready to get started?</h2>
         <p>Book a call with our team to learn more.</p>
       </div>
-      <button>
+      <button className="chat-btn">
         <a href="#home">Let's Chat</a>
       </button>
     </div>
