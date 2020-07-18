@@ -178,6 +178,21 @@ html {
   margin-top: 1.5rem;
 }
 
+/* Started component */
+
+.started {
+  height: 25vh;
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgb(0, 255, 201);
+}
+
+.ready {
+  padding: 0 0 2rem 0;
+}
+
 .progress-img {
   height: 10vh;
   width: 70vw;
