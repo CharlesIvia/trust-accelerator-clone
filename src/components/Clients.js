@@ -21,47 +21,53 @@ const Clients = () => {
         </div>
 
         <div className="lined"></div>
-        <div>
-          <div>
-            <div>
+        <div className="others">
+          <div className="client-portion">
+            <div className="second-client">
               <img className="person-img" src={person} alt="" />
-              <p>Janelle Lara</p>
-              <p>The Part-Time CEO</p>
+              <div className="items">
+                <p className="client-name">Janelle Lara</p>
+                <p>The Part-Time CEO</p>
+              </div>
             </div>
-            <div>
+            <div className="chunk">
               <p>
                 It's my main medium for sharing content. This medium where my
                 ideal audience find me. Highly capable, highly intelligent
                 people are not spending quite so much time on social media, but
                 they are spending time growing and in personal development,
-                which happens on podcasts
+                which happens on podcasts.
               </p>
-              <a href="#home">Listen here</a>
+              <div>
+                <a href="#home">Listen here</a>
+              </div>
             </div>
           </div>
-
-          <div>
-            <div>
-              <img className="person-img " src={person} alt="" />
-
-              <p>Tony Banta</p>
-              <p>Venture Greatly</p>
+          <div className="client-portion">
+            <div className="second-client">
+              <img className="person-img" src={person} alt="" />
+              <div className="items">
+                <p className="client-name">Nick Peterson</p>
+                <p>Mastery Mode</p>
+              </div>
             </div>
-            <div>
+            <div className="chunk">
               <p>
-                My business partner and I are very busy with the operations of
-                our business, and marketing is always an afterthought. Working
-                with the team at Trust Accelerator allows us to take a little
-                time out each week and still keep the marketing flywheel going
-                without consciously spending time on it.
+                It’s helping us reach more people, but also the right kind of
+                people. You can’t get to that landing page unless you listen to
+                30 minutes of us talk. So we’re reaching engaged and qualified
+                people. We don’t like spending a ton of money to bring a ton of
+                unqualified people into our ecosystem.
               </p>
-              <a href="#home">Listen here</a>
+              <div>
+                <a href="#home">Listen here</a>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div className="lined"></div>
+      <div className="last-line"></div>
     </div>
   );
 };
