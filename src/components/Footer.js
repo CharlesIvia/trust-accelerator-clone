@@ -2,9 +2,9 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
-      <div>
-        <p>_</p>
+    <div className="container footer">
+      <div className="first-chunk">
+        <p className="dash">_</p>
         <ul>
           <li>
             <a href="#home">LinkedIn</a>
@@ -18,8 +18,8 @@ const Footer = () => {
         </ul>
       </div>
 
-      <div>
-        <p>_</p>
+      <div className="second-chunk">
+        <p className="dash">_</p>
         <p> &copy; 2019 The Trust Accelerator.</p>
         <p>All rights reserved.</p>
       </div>
