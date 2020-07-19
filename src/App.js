@@ -6,7 +6,7 @@ import Influence from "./components/Influence";
 import Gains from "./components/Gains";
 import Started from "./components/Started";
 import WhatItTakes from "./components/WhatItTakes";
-import StepOne from "./components/StepOne";
+import Steps from "./components/Steps";
 import Clients from "./components/Clients";
 import Footer from "./components/Footer";
 
@@ -19,7 +19,7 @@ function App() {
       <Gains />
       <Started />
       <WhatItTakes />
-      <StepOne />
+      <Steps />
       <Started />
       <Clients />
       <Started />

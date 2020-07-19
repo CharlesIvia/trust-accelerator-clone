@@ -4,7 +4,7 @@ import commerceImg from "../images/image10.jpg";
 import voiceImg from "../images/image11.jpg";
 import innovationImg from "../images/image12.jpg";
 
-const StepOne = () => {
+const Steps = () => {
   return (
     <div className="container steps">
       <p className="step">STEP ONE</p>
@@ -95,4 +95,4 @@ const StepOne = () => {
   );
 };
 
-export default StepOne;
+export default Steps;
