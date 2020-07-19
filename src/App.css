@@ -315,12 +315,50 @@ html {
   margin-top: 3rem;
   font-size: 2.5rem;
   font-weight: 300;
-  width: 35vw;
-  color: rgb(55, 70, 111);
+  width: 40vw;
+  color: rgb(87, 79, 90);
+  letter-spacing: 0.1rem;
 }
 
 .first-name {
   text-align: center;
   font-size: 1.8rem;
   margin: 3rem 0;
+}
+
+.others {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.6rem;
+  padding-top: 4rem;
+}
+
+.second-client {
+  display: flex;
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 0 0 2rem;
+}
+
+.client-name {
+  padding: 0.5rem 0 1rem 0;
+  font-size: 2rem;
+}
+
+.chunk {
+  padding-top: 3rem;
+  width: 25vw;
+}
+
+.chunk div {
+  color: black;
+  margin-top: 4rem;
+}
+
+.chunk a {
+  color: black;
 }
