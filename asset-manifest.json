@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/trust-accelerator-clone/static/css/main.fd3152bf.chunk.css",
+    "main.js": "/trust-accelerator-clone/static/js/main.827b194f.chunk.js",
+    "main.js.map": "/trust-accelerator-clone/static/js/main.827b194f.chunk.js.map",
+    "runtime-main.js": "/trust-accelerator-clone/static/js/runtime-main.6ffbb464.js",
+    "runtime-main.js.map": "/trust-accelerator-clone/static/js/runtime-main.6ffbb464.js.map",
+    "static/js/2.1a5f2c10.chunk.js": "/trust-accelerator-clone/static/js/2.1a5f2c10.chunk.js",
+    "static/js/2.1a5f2c10.chunk.js.map": "/trust-accelerator-clone/static/js/2.1a5f2c10.chunk.js.map",
+    "index.html": "/trust-accelerator-clone/index.html",
+    "precache-manifest.4dea10244112cbb48728222afbee0f22.js": "/trust-accelerator-clone/precache-manifest.4dea10244112cbb48728222afbee0f22.js",
+    "service-worker.js": "/trust-accelerator-clone/service-worker.js",
+    "static/css/main.fd3152bf.chunk.css.map": "/trust-accelerator-clone/static/css/main.fd3152bf.chunk.css.map",
+    "static/js/2.1a5f2c10.chunk.js.LICENSE.txt": "/trust-accelerator-clone/static/js/2.1a5f2c10.chunk.js.LICENSE.txt",
+    "static/media/big-brain.png": "/trust-accelerator-clone/static/media/big-brain.07d5c806.png",
+    "static/media/brain.svg": "/trust-accelerator-clone/static/media/brain.c4cbb894.svg",
+    "static/media/chalo.jpg": "/trust-accelerator-clone/static/media/chalo.580b7105.jpg",
+    "static/media/image01.png": "/trust-accelerator-clone/static/media/image01.b5016e80.png",
+    "static/media/image05.svg": "/trust-accelerator-clone/static/media/image05.91584302.svg",
+    "static/media/image06.svg": "/trust-accelerator-clone/static/media/image06.d7517d6d.svg",
+    "static/media/image08.svg": "/trust-accelerator-clone/static/media/image08.1af68fd4.svg",
+    "static/media/image10.jpg": "/trust-accelerator-clone/static/media/image10.10a565b4.jpg",
+    "static/media/image11.jpg": "/trust-accelerator-clone/static/media/image11.5f637145.jpg",
+    "static/media/image12.jpg": "/trust-accelerator-clone/static/media/image12.2cbcd8c8.jpg",
+    "static/media/strategic.jpg": "/trust-accelerator-clone/static/media/strategic.8b3a80a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ffbb464.js",
+    "static/js/2.1a5f2c10.chunk.js",
+    "static/css/main.fd3152bf.chunk.css",
+    "static/js/main.827b194f.chunk.js"
+  ]
+}
