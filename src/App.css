@@ -234,3 +234,19 @@ html {
   height: 15vh;
   width: 50vw;
 }
+
+/* Steps component */
+
+.steps {
+  background: whitesmoke;
+}
+
+.images {
+  width: 45.6rem;
+  height: 33.1rem;
+}
+
+.step {
+  padding: 7.5rem 0 3rem 0;
+  font-size: 3.2rem;
+}
