@@ -3,22 +3,28 @@ import person from "../images/chalo.jpg";
 
 const Clients = () => {
   return (
-    <div>
-      <h1>CURRENT CLIENTS</h1>
-      <div className="line"></div>
+    <div className="container clients">
+      <h1 className="current">CURRENT CLIENTS</h1>
+      <div className="lined"></div>
       <div>
-        <img src={person} alt="a person" />
-        <h3>
-          "No one can simplify your message and convey it visually better than
-          these guys."
-        </h3>
-        <p>Jim Fisher — Jucebox</p>
+        <div className="first-client">
+          <div className="first-person-img">
+            <img className="person-img" src={person} alt="a person" />
+          </div>
+          <div className="first-text">
+            <h3>
+              "No one can simplify your message and convey it visually better
+              than these guys."
+            </h3>
+          </div>
+          <p className="first-name">Jim Fisher — Jucebox</p>
+        </div>
 
-        <div className="line"></div>
+        <div className="lined"></div>
         <div>
           <div>
             <div>
-              <img src={person} alt="" />
+              <img className="person-img" src={person} alt="" />
               <p>Janelle Lara</p>
               <p>The Part-Time CEO</p>
             </div>
@@ -36,7 +42,8 @@ const Clients = () => {
 
           <div>
             <div>
-              <img src={person} alt="" />
+              <img className="person-img " src={person} alt="" />
+
               <p>Tony Banta</p>
               <p>Venture Greatly</p>
             </div>
@@ -54,7 +61,7 @@ const Clients = () => {
         </div>
       </div>
 
-      <div className="line"></div>
+      <div className="lined"></div>
     </div>
   );
 };
